@@ -1,3 +1,0 @@
-D:/Task C/FileSrotings/MultiFileSotring/cmake-build-debug/CMakeFiles/MultiFileSotring.dir
-D:/Task C/FileSrotings/MultiFileSotring/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Task C/FileSrotings/MultiFileSotring/cmake-build-debug/CMakeFiles/rebuild_cache.dir
